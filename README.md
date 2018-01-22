@@ -3,8 +3,8 @@
 
 ## About
 This project was created in 2013. In January 2018 I decided to little refactoring and publishing it for open source.
-In folder**old-src**you can see the old code written in**student times**with comment/code in polish language :)
-In folder**algorithm-description**is located base description Particle Swarm Optimization in polish language (LaTeX version and PDF).
+In folder **old-src** you can see the old code written in **student times** with comment/code in polish language :)
+In folder **algorithm-description** is located base description Particle Swarm Optimization in polish language (LaTeX version and PDF).
 
 ## Requirements
  - Java 8
@@ -14,7 +14,7 @@ In root folder with project:
 
     mvn package
 
-After, in the*target*folder will be executable jar**OptiPSO.jar**. <br/>
+After, in the*target*folder will be executable jar **OptiPSO.jar**. <br/>
 That's all!
 
 ## Algorithm parameters
@@ -44,9 +44,9 @@ Example file with configuration:
     PARABOLA -> -4 * (x * x + y * y)
 
 If you want add custom function:
-1. Add new class which implements**Function**interface,
-2. Add value to**FunctionType**enum,
-3. Add entry to Map in to**FunctionInvoker** class.
+1. Add new class which implements **Function** interface,
+2. Add value to **FunctionType** enum,
+3. Add entry to Map in to **FunctionInvoker** class.
 
 ## References
  - https://en.wikipedia.org/wiki/Particle_swarm_optimization
