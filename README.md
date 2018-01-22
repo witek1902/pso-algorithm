@@ -36,7 +36,7 @@ Example file with configuration:
     5. Alpha
     6. Beta
     
-## Available function
+## Available functions
     CIRCLE_ONE -> 0.5 * (cos(62.8 * x) + cos(62.8 * y)) - 4 * (x * x + y * y)
     CIRCLE_TWO -> cos(96 * sqrt(x * x + y * y)) - 4 * (x * x + y * y)
     EGG_ONE -> 0.5 * (cos(31.4 * x) + cos(31.4 * y)) - 4 * (x * x + y * y)
