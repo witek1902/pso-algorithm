@@ -14,7 +14,7 @@ In root folder with project:
 
     mvn package
 
-After, in the*target*folder will be executable jar **OptiPSO.jar**. <br/>
+After, in the *target* folder will be executable jar **OptiPSO.jar**. <br/>
 That's all!
 
 ## Algorithm parameters
@@ -47,6 +47,10 @@ If you want add custom function:
 1. Add new class which implements **Function** interface,
 2. Add value to **FunctionType** enum,
 3. Add entry to Map in to **FunctionInvoker** class.
+
+## TODO
+1. Write tests.
+2. Split GUI class.
 
 ## References
  - https://en.wikipedia.org/wiki/Particle_swarm_optimization
