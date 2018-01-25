@@ -9,13 +9,6 @@ In folder **algorithm-description** is located base description Particle Swarm O
 ## Requirements
  - Java 8
  - Maven 3
-## How to use
-In root folder with project:
-
-    mvn package
-
-After, in the *target* folder will be executable jar **OptiPSO.jar**. <br/>
-That's all!
 
 ## Algorithm parameters
 User can change algorithm parameters from UI or load from file.
