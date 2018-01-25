@@ -1,4 +1,4 @@
-# Particle Swarm Optimization (PSO) with visualisation
+# Java (Swing) Particle Swarm Optimization (PSO) with visualisation
 ![Program OptiPSO](https://i.imgur.com/QnNhi5c.gif)
 
 ## About
