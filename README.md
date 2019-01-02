@@ -3,7 +3,9 @@
 
 ## About
 This project was created in 2013. In January 2018 I decided to little refactoring and publishing it for open source.
+
 In folder **old-src** you can see the old code written in **student times** with comment/code in polish language :)
+
 In folder **algorithm-description** is located base description Particle Swarm Optimization in polish language (LaTeX version and PDF).
 
 ## Requirements
